@@ -1,6 +1,10 @@
  [**Настройка Klipper для 3D-принтера FlyingBear Ghost 6 с подключением по USB**](https://github.com/flyingbear-reborn2/wiki/blob/main/FBG6/klipper.md) 
  мануал  для совсем новичков, написан при моем содействии.
  
+[**Klippersreen**](klippersreen/readme.md) 
+
+Если не запустился сразу покупной экран.
+
 
 [**Что Купить**](what_2_buy/readme.md) всё что надо для того, чтобы принтер  вас любил.
  
@@ -43,6 +47,10 @@
 
  *<h2>остальное</h2>*
 
+ [**ustreamer**](https://fb-waiters.bibirevo.net/klipper/ustreamer#zachem_i_pochemu) 
+
+ Замена\Установка стримингового модуля. Так как mjpg-streamer умер на данный момент, а камеру хочется, читаем, ставим. если что то непонятно есть альтернативный источник [тут](https://fdmprint.ru/2022/11/10/klipper_ustreamer/)
+
 **timelapse здорового человека** 
 
 многие пользуются функцией таймлапсов которые предоставляет телеграм бот но он ограничен в функионале и не позволяет делать красиво.
@@ -52,7 +60,7 @@
 
 Новейший проект от меня, только тут и нигде больше)
 
-**клипперскрин** подключен по [этому мануалу](https://sergey1560.github.io/fb4s_howto/mks_ts35/) в родном мануале совсем невнятная схема подключения [тут](TS35%20Klipper.pdf) тоже самое но чуть понятнее
+**клипперскрин** подключение штатного экрана по [этому мануалу](https://sergey1560.github.io/fb4s_howto/mks_ts35/) в родном мануале совсем невнятная схема подключения [тут](TS35%20Klipper.pdf) тоже самое но чуть понятнее.
 
 **клипперскрин** если у вас raspberry [тут](https://github.com/willngton/3DPrinterConfig/blob/main/mks_ts35/mks_ts35_guide_archived.md) или [тут](https://github.com/evgs/FBG6-Klipper/blob/main/Klipperscreen-RPI.md)
 
